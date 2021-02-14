@@ -52,11 +52,15 @@ const getImages = async (query) => {
 let slideIndex = 0;
 const selectItem = (event, img) => {
   let element = event.target;
-  element.classList.toggle('added');
+  element.classList.add('added');
 
   let item = sliders.indexOf(img);
   if (item === -1) {
     sliders.push(img);
+  }
+  else{
+      delete sliders[item];
+      element.classList.toggle('added');
   }
 }
 var timer
