@@ -1,5 +1,5 @@
 # Image-slider
-## Details 
+## Details..
 * This is a slider cretor website . you can search your fvrt image & can make a slider very easily ...
 
 ## How this site works
