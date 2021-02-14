@@ -21,7 +21,7 @@
 [CLICK ME](https://shahinuralambhuiyan.github.io/Image-slider/)
 
 ## Let's take a look!
-![alt text](images/site ss)
+![alt text](images/site ss.jpg)
 
 ### Search image..
 api link: https://pixabay.com/api/?key=${KEY}=${query}&image_type=photo&pretty=true
