@@ -1,5 +1,5 @@
 # Image-slider
-## Details 
+## Details..
 * This is a slider cretor website . you can search your fvrt image & can make a slider very easily ...
 
 ## How this site works
@@ -21,7 +21,7 @@
 [CLICK ME](https://shahinuralambhuiyan.github.io/Image-slider/)
 
 ## Let's take a look!
-![alt text](images/site-ss.jpg)
+![alt text](images/site ss.jpg)
 
 ### Search image..
 api link: https://pixabay.com/api/?key=${KEY}=${query}&image_type=photo&pretty=true
